@@ -1,0 +1,28 @@
+{
+  "name": "client",
+  "version": "1.0.0",
+  "description": "## Frontend",
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/johndupper/mern-stack-client.git"
+  },
+  "keywords": [],
+  "author": "john dupper",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/johndupper/mern-stack-client/issues"
+  },
+  "homepage": "https://github.com/johndupper/mern-stack-client#readme",
+  "dependencies": {
+    "ajv": "^6.5.3",
+    "react": "^16.4.2",
+    "react-dom": "^16.4.2",
+    "react-scripts": "1.1.5"
+  }
+}
