@@ -21,6 +21,7 @@
   "homepage": "https://github.com/johndupper/mern-stack-client#readme",
   "dependencies": {
     "ajv": "^6.5.3",
+    "axios": "^0.18.0",
     "react": "^16.4.2",
     "react-dom": "^16.4.2",
     "react-scripts": "1.1.5"
